@@ -4,7 +4,9 @@
     "details": [
       {
         "appID": "TEAMID.com.example.deeplink",
-        "paths": ["*"]
+        "paths": [
+          "*"
+        ]
       }
     ]
   }

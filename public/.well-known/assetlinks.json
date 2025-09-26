@@ -1,10 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.gahezha.gahezha",
-    "sha256_cert_fingerprints": [
-      "2d:b6:76:fb:98:ef:b5:dc:89:f5:3b:58:d4:1b:d4:6a:5b:8b:b0:18:40:16:e3:33:3a:60:f7:72:e0:f4:6e:03"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gahezha.gahezha",
+      "sha256_cert_fingerprints": [
+        "2d:b6:76:fb:98:ef:b5:dc:89:f5:3b:58:d4:1b:d4:6a:5b:8b:b0:18:40:16:e3:33:3a:60:f7:72:e0:f4:6e:03"
+      ]
+    }
   }
-}]
+]
